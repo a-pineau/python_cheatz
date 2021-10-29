@@ -1,5 +1,5 @@
 #####################
-#  Data structures  #
+#       Types       #
 #####################
 
 # General comments:

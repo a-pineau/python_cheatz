@@ -1,5 +1,5 @@
 #####################
-#  Data structures  #
+#    Generators     #
 #####################
 from random import randint
 import itertools
