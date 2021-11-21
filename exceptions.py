@@ -4,7 +4,7 @@
 # General comments:
 # Better use try-except than if else to handle exceptions
 # Python encourages EAFP (“It’s easier to ask for forgiveness than permission”)
-# 64 exceptions (built-ins)
+# 64 exceptions (builtins)
 # An exception is a class
 # BaseException: SystemExit, KeyboardInterrupt, GeneratorExit, Exception ()
 # Python raises exception when those occur
